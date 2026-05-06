@@ -1,0 +1,13 @@
+{
+  "status": true,
+  "message": "Notifikasi berhasil dimuat",
+  "notifications": [
+    {
+      "id": "1",
+      "title": "Update Baru Tersedia",
+      "message": "Versi baru aplikasi telah rilis! Update sekarang untuk fitur terbaru.",
+      "date": "2026-05-04T10:30:00.000Z",
+      "is_read": false
+    }
+  ]
+}
